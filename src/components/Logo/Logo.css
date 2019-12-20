@@ -1,0 +1,7 @@
+.hovering {
+    transform: scale(1);
+}
+.hovering:hover{
+    transition-duration: 1s;
+    transform: scale(1.2);
+}
